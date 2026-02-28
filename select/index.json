@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "STUPID IN LOVE",
+  "base_artist": "MAX",
+  "createdAt": "2026-02-28T14:30:02.667297Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Stupid In Love",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/01_Stupid_In_Love_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Stupid in Love",
+      "artist": "Wavves",
+      "has_synced": true,
+      "path": "select/02_Stupid_in_Love_Wavves.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Stupid In Love (Explicit Version)",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/03_Stupid_In_Love_(Explicit_Version)_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Stupid In Love (Album Version)",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/04_Stupid_In_Love_(Album_Version)_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Stupid in Love",
+      "artist": "Rihanna",
+      "has_synced": true,
+      "path": "select/05_Stupid_in_Love_Rihanna.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "STUPID IN LOVE",
+      "artist": "OH MY GIRL",
+      "has_synced": true,
+      "path": "select/06_STUPID_IN_LOVE_OH_MY_GIRL.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "STUPID IN LOVE (feat. HUH YUNJIN of LE SSERAFIM)",
+      "artist": "MAX feat. HUH YUNJIN",
+      "has_synced": true,
+      "path": "select/07_STUPID_IN_LOVE_(feat._HUH_YUNJIN_of_LE_SSERAFIM)_MAX_feat._HUH_YUNJIN.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "STUPID IN LOVE",
+      "artist": "MAX",
+      "has_synced": true,
+      "path": "select/08_STUPID_IN_LOVE_MAX.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "STUPID IN LOVE",
+      "artist": "MAX",
+      "has_synced": true,
+      "path": "select/09_STUPID_IN_LOVE_MAX.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "STUPID IN LOVE (feat. HUH YUNJIN of LE SSERAFIM)",
+      "artist": "MAX feat. HUH YUNJIN",
+      "has_synced": true,
+      "path": "select/10_STUPID_IN_LOVE_(feat._HUH_YUNJIN_of_LE_SSERAFIM)_MAX_feat._HUH_YUNJIN.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "STUPID IN LOVE (feat. HUH YUNJIN of LE SSERAFIM)",
+      "artist": "MAX",
+      "has_synced": true,
+      "path": "select/11_STUPID_IN_LOVE_(feat._HUH_YUNJIN_of_LE_SSERAFIM)_MAX.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "STUPID IN LOVE (feat. HUH YUNJIN of LE SSERAFIM)",
+      "artist": "MAX feat. HUH YUNJIN",
+      "has_synced": true,
+      "path": "select/12_STUPID_IN_LOVE_(feat._HUH_YUNJIN_of_LE_SSERAFIM)_MAX_feat._HUH_YUNJIN.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "STUPID IN LOVE (feat. HUH YUNJIN of LE SSERAFIM)",
+      "artist": "Max",
+      "has_synced": true,
+      "path": "select/13_STUPID_IN_LOVE_(feat._HUH_YUNJIN_of_LE_SSERAFIM)_Max.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "MAX - STUPID IN LOVE (feat. HUH YUNJIN of LE SSERAFIM) [Official Lyric Video]",
+      "artist": "MAX",
+      "has_synced": true,
+      "path": "select/14_MAX_-_STUPID_IN_LOVE_(feat._HUH_YUNJIN_of_LE_SSERAFIM)_[Official_Lyric_Video]_MAX.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "STUPID IN LOVE",
+      "artist": "MAX feat. HUH YUNJIN of LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/15_STUPID_IN_LOVE_MAX_feat._HUH_YUNJIN_of_LE_SSERAFIM.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "STUPID IN LOVE (feat. HUH YUNJIN)",
+      "artist": "MAX",
+      "has_synced": true,
+      "path": "select/16_STUPID_IN_LOVE_(feat._HUH_YUNJIN)_MAX.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "STUPID IN LOVE",
+      "artist": "MAX",
+      "has_synced": true,
+      "path": "select/17_STUPID_IN_LOVE_MAX.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "STUPID IN LOVE (feat. HUH YUNJIN of LE SSERAFIM)",
+      "artist": "MAX",
+      "has_synced": false,
+      "path": "select/pl_01_STUPID_IN_LOVE_(feat._HUH_YUNJIN_of_LE_SSERAFIM)_MAX.txt"
+    }
+  ]
+}
