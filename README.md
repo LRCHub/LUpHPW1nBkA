@@ -1,0 +1,71 @@
+# MAX – STUPID IN LOVE
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:02.39] Beautiful, beautiful, beautiful
+[00:04.63] There's something about your eyes
+[00:08.28] Tell me this feeling is mutual
+[00:11.41] These feelings are so hard to find
+[00:14.06] Know we said it in a song, maybe
+[00:16.85] But I don't in or where it will take me
+[00:20.06] Know you is calling me, baby
+[00:23.42] We can now call us crazy
+[00:26.25] Let's get married in Vegas
+[00:28.84] We don't need a guestlist
+[00:30.23] I don't want to think too much
+[00:32.54] Let's get matching tattoos
+[00:34.50] I don't want to think it through
+[00:36.20] Baby, I'm so stupid in love
+[00:38.52] So stupid in love with you
+[00:40.82] Stupid in love with you
+[00:42.84] I'm so stupid in love
+[00:45.19] So stupid in love with you
+[00:49.58] I'm so stupid in love
+[00:52.37] Hi, we came (to you, yeah)
+[00:55.76] Babe, I've been waiting for you all day
+[00:58.61] So, we my way (my, way)
+[01:01.73] Let me just take away all the pain
+[01:04.65] I know it's a bit soon for that
+[01:08.66] The papers are good for now
+[01:10.99] But no, I'm already down for I
+[01:14.08] Because I'm so stupid for love
+[01:16.30] Let's get married in Vegas
+[01:19.20] We don't need a guestlist
+[01:20.56] I don't want to think too much
+[01:22.85] Let's get matching tattoos
+[01:24.89] I don't want to think it through
+[01:26.70] Baby, I'm so stupid in love
+[01:29.44] We could fly to Paris only one way
+[01:31.71] What you think about sharing our last names
+[01:35.47] Let's get straight to I do
+[01:37.19] I don't want to think it through
+[01:39.17] Baby, I'm so stupid in love
+[01:41.39] So stupid in love with you
+[01:43.64] Stupid in love with you
+[01:45.90] I'm so stupid in love
+[01:47.61] So stupid in love with you
+[01:49.99] Stupid in love with you
+[01:51.92] I'm so stupid in love
+[01:54.22] So tell me right now, before I go down
+[01:57.31] Can we make it work, babe let's find out
+[02:00.74] Tell me right now, before I go down
+[02:03.56] Can we make it work, babe let's find out
+[02:06.41] Let's get married in Vegas
+[02:09.32] We don't need a guestlist
+[02:11.02] I don't want to think too much
+[02:13.05] Let's get matching tattoos
+[02:14.93] I don't want to think it through
+[02:16.66] Baby, I'm so stupid in love
+[02:18.90] We could fly to Paris only one way
+[02:21.89] What you think about sharing our last names
+[02:25.36] Let's get straight to I do
+[02:27.69] I don't want to think it through
+[02:29.10] Baby, I'm so stupid in love
+[02:31.35] So stupid in love with you
+[02:36.25] I'm so stupid in love
+[02:38.24] So stupid in love with you
+[02:42.14] I'm so stupid in love
+[02:44.45] Stupid in love with you
+[02:48.98] (Beautiful, beautiful)
+```
